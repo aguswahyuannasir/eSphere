@@ -2,7 +2,7 @@
 Soal Interview
 
 ## 1. buatlah html dan css dari mockup design berikut (Waktu 15 menit )
-![stack Overflow](http://lmsotfy.com/so.png)
+![soal 1](https://github.com/aguswahyuannasir/eSphere/blob/master/img1.png)
 
 ## 2. Ada sebuah angka seperti ini : 1.225.441
 Berikan outputnya berupa :
@@ -19,13 +19,7 @@ Waktu 15 menit
 ## 3. Buat deret bilangan ganjil (angka 1-100). waktu 15 menit
 
 ## 4. Buatlah form berikut menggunakan ajax
-
-
-
-
-
-
-
+![soal 1](https://github.com/aguswahyuannasir/eSphere/blob/master/img2.png)
 
 
 ketentuan:
