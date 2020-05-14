@@ -1,10 +1,10 @@
 # eSphere
 Soal Interview
 
-##1. buatlah html dan css dari mockup design berikut (Waktu 15 menit )
+## 1. buatlah html dan css dari mockup design berikut (Waktu 15 menit )
 
 
-##2. Ada sebuah angka seperti ini : 1.225.441
+## 2. Ada sebuah angka seperti ini : 1.225.441
 Berikan outputnya berupa :
 10
 200
@@ -16,9 +16,9 @@ Berikan outputnya berupa :
 
 Waktu 15 menit
 
-##3. Buat deret bilangan ganjil (angka 1-100). waktu 15 menit
+## 3. Buat deret bilangan ganjil (angka 1-100). waktu 15 menit
 
-##4. Buatlah form berikut menggunakan ajax
+## 4. Buatlah form berikut menggunakan ajax
 
 
 
