@@ -2,7 +2,7 @@
 Soal Interview
 
 ## 1. buatlah html dan css dari mockup design berikut (Waktu 15 menit )
-
+![stack Overflow](http://lmsotfy.com/so.png)
 
 ## 2. Ada sebuah angka seperti ini : 1.225.441
 Berikan outputnya berupa :
